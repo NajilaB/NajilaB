@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <!--
 snakegame
 --> 
-![snake gif](https://github.com/NajilaB/NajilaB/blob/output/github-ocean.gif)
+![snake gif](https://github.com/NajilaB/NajilaB/blob/output/github-snake-dark.svg)
 
 
 
