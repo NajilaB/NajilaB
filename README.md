@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=NajilaB&theme=dark&hide_border=false)<br/>
 
 
 ## I’m on a journey to level up my content, and the key to that? 
@@ -28,7 +29,9 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NajilaB&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NajilaB&theme=dark&hide_border=false)<br/>
+
+
+
 
 
 ## 🏆 GitHub Trophies
