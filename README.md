@@ -30,7 +30,10 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NajilaB&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-
+<!--
+snakegame
+--> 
+![snake gif](https://github.com/NajilaB/NajilaB/blob/output/github-ocean.gif)
 
 
 
