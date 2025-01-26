@@ -1,5 +1,5 @@
 ## Hi Dearest Friend 👋
-# CHALLENGE 1 : ADD SNAKE EATING COMMITS TO PROFILE 💅
+
 <!--
 **NajilaB/NajilaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
